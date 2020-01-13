@@ -1,0 +1,4 @@
+services:
+	directParser:
+		class: PHPStan\Parser\DirectTwigParser
+		autowired: no
